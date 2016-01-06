@@ -9,3 +9,5 @@ wget --directory-prefix=${OUTDIR} http://files.teamerlich.org/lobstr/v3/ref/lobS
 
 cd ${OUTDIR}
 tar -xzvf lobSTR_v3.0.2_GRCh37_resource_bundle.tar.gz
+unzip ERR194146_1.fastq.gz
+unzip ERR194146_2.fastq.gz
