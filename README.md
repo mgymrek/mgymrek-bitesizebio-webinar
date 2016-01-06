@@ -21,6 +21,5 @@ It contains the following scripts:
 * ```align-fastqs-bwamem.sh```: align raw reads to the human reference genome using BWA-MEM.
 * ```samtools-genotype.sh```: call genotypes using samtools.
 * ```lobstr-allelotype.sh```: genotype STRs using lobSTR.
-* ```pybamview-vis.sh```: visualize an alignment using PyBamView.
 
 These scripts are meant to provide small examples of using these tools, and the best way to learn from them is to look at the commands they run and output they produce, then modify for your own projects. Note they contain minimal error checking, etc. as they are mostly meant to demonstrate these commands.
